@@ -4,7 +4,7 @@
 This README file outlines the process we've used to analyze and visualize bike sales data in an interactive Excel dashboard. Our data analysis journey includes data cleaning, feature engineering, and creating pivot tables for interactive visual analytics.
 
 ## Data Description
-The dataset comprises 13 columns and 1001 rows, representing 1000 customers with their respective demographic and sales information. The columns include:
+The dataset, sourced from the 'Alex the Analyst' repository on GitHub, comprises 13 columns and 1001 rows, representing 1000 customers with their respective demographic and sales information. The columns include:
 
 1. ID
 2. Marital Status (Single/Married)
